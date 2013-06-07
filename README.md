@@ -1,4 +1,4 @@
 HadoopPrimeirosPassos
 =====================
 
-Big data examples and studies
+Projeto realizado para o trabalho de configuração e execução dos primeiros passos em Hadoop e MapReduce.
