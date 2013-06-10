@@ -1,0 +1,10 @@
+Apache	1
+BigData	1
+Datanode	1
+HDFS	1
+Hadoop	2
+JobTracker	1
+MapReduce	2
+Namenode	1
+TaskTracker	1
+and	2

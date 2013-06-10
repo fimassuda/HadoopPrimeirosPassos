@@ -1,9 +1,6 @@
 /**
- * Created with IntelliJ IDEA.
- * User: fillipe
- * Date: 6/7/13
- * Time: 7:44 PM
- * To change this template use File | Settings | File Templates.
+ * Exemplo retirado da pasta de exemplos do pacote do Hadoop.
+ * .../src/examples/org/apache/hadoop
  */
 import java.io.IOException;
 import java.util.StringTokenizer;

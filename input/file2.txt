@@ -1,0 +1,5 @@
+Hadoop 
+HDFS
+Namenode and Datanode
+MapReduce
+JobTracker and TaskTracker
